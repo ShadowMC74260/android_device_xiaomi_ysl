@@ -25,6 +25,8 @@
 
 DEVICE_PATH := device/xiaomi/ysl
 
+BUILD_BROKEN_DUP_RULES := true
+
 # Architecture
 TARGET_BOARD_SUFFIX := _64
 
